@@ -33,6 +33,10 @@
   ); /* Filter color */
 }
 
+html, body {
+  overflow: hidden;
+}
+
 .darktheme {
   /* Dark Colors  */
   --accent: #57a0d9; /* Hover color */
